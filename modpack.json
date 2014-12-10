@@ -1,0 +1,15 @@
+{
+  "name": "Modded Factions Package",
+  "title": "Factions",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": []
+  },
+  "userFiles": {
+    "include": [
+      "config/Factions.cfg",
+      "options.txt",
+	  "servers.dat"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "Modded Factions Package", 
+"title": "Factions", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/moddedfactionsmanifest.json", 
+"priority": 1
+}
+]
+}
