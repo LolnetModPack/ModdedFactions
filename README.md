@@ -1,2 +1,2 @@
-Pixelmon
+Modded Factions
 ========
