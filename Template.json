@@ -5,7 +5,7 @@
 "name": "Modded Factions Package", 
 "title": "Factions", 
 "version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/moddedfactionsmanifest.json", 
+"location": "https://www.lolnet.co.nz/modpack/ModdedFactions.json", 
 "priority": 1
 }
 ]
